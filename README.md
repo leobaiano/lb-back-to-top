@@ -42,8 +42,8 @@ The plugin uses the wp_footer action, make sure it is called in your theme. Usua
 
 ## Screenshots ##
 
-###1. Button back to top###
-[missing image]
+###1. Button back to top in action###
+![Laser Cutter Panel #1](https://github.com/leobaiano/lb-back-to-top/blob/master/screenshot-1.png)
 
 
 ## Changelog ##
